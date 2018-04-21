@@ -72,6 +72,8 @@ So many conferences got this wrong, and it's so simple. It shouldn't be anything
 * Have 👏️ good 👏️ WiFi ️️👏️ coverage.
 * Have 👏️ extra ️️👏️ extension 👏️ cords.
 * Have 👏️ some ️️👏️ food 👏️ and 👏️ water.
+* Have 👏 comfortable 👏 seating.
+* Have 👏 somewhere 👏 quiet.
 
 ## 🍗 Food
 
