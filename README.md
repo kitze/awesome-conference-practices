@@ -86,13 +86,13 @@ I cannot stress this enough. Don't have a long conference intro. Yes, I know you
 
 ## 🎤️ MC
 
-An MC can either make or break a conference. Make sure that you get the right person. Don't fall into the trap of just hiring a random person that's popular in the community, because he / she might be terrible with audiences.
+An MC can either make or break a conference. Make sure that you get the right person. Don't fall into the trap of just hiring a random person that's popular in the community, because they might be terrible with audiences.
 
 ## 🏷 Badges
 
 * One-sided badges are terrible. They will twist and turn all the time and you gotta make sure that people can read your name. Print the same info on both sides.
 * Find a way to include the conference agenda on the badge. It's just amazing. [Here is an example](https://i.pinimg.com/originals/49/1b/b5/491bb51f8b23855daf0d3f27b2d3c751.jpg).
-* Include Twitter nickname on badges? When Derp Derpowski approaches you, you will have no idea who he is, but if you see @zderp you'll be like "YO WHAT'S GOOD I KNOW YOU FROM TWITTER". Please do it.
+* Include Twitter nickname on badges? When Derp Derpowski approaches you, you will have no idea who they are, but if you see @zderp you'll be like "YO WHAT'S GOOD I KNOW YOU FROM TWITTER". Please do it.
 
 ## 📽️ Equipment
 
