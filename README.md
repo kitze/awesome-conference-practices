@@ -86,7 +86,7 @@ I cannot stress this enough. Don't have a long conference intro. Yes, I know you
 
 ## 🎤️ MC
 
-An MC can either make or break a conference. Make sure that you get the right person. Don't fall into the trap of just hiring a random person that's popular in the community, because he might be terrible with audiences.
+An MC can either make or break a conference. Make sure that you get the right person. Don't fall into the trap of just hiring a random person that's popular in the community, because he / she might be terrible with audiences.
 
 ## 🏷 Badges
 
@@ -119,6 +119,8 @@ I don't think that anyone would complain about this, no matter what's the gift (
 * Sneakers
 * Chocolate with the conference logo
 * Handwritten note/letter
+
+Also keep in mind that certain items are not allowed on a plane (wine bottles, certain kinds of meat, etc.) and many speakers will travel with hand luggage only.
 
 # Extra ideas
 
