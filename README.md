@@ -16,11 +16,11 @@ For God's sake don't send out a huge email the size of the Bible with **all** th
 
 Send calendar invites for every event at the conference. Attach locations and descriptions to the events. Speakers dinner, my talk, mic-check, after-party, hiking, that extra tour, etc. Then every speaker can accept the events they want to attend and they don't need to open that huge email 90 times in order to figure out what's going on.
 
-## 😂️ Sending the talk upfront 
+## 😂️ Sending the talk upfront
 
 LOL, it's never gonna happen. Most of the speakers finish their presentations on the flight to the conference, or _at_ the actual event, so just don't bother.
 
-## 🤦‍ Native app 
+## 🤦‍ Native app
 
 Do not, I repeat, **DO NOT** make a native app. Most of the people won't even bother to install it and those who do will just delete it after the conference is done, so it doesn't make any sense. Make a nice PWA instead, it's the perfect use case for it.
 
@@ -63,7 +63,8 @@ If you decide to pay one speaker, pay all of them. This kind of information leak
 # The actual conference
 
 ## 👲🏽🎅🏾🧛‍🧝‍👨🏼🧕🧚‍ 💁🏻‍ Diversity
-You would think that by now conference organizers finally figured this out, but you would be surprised. 
+
+You would think that by now conference organizers finally figured this out, but you would be surprised.
 Just don't do a conference with 80 male speakers, or 80 female speakers, or any 80 speakers of the same gender/nationality/race/age/etc. Make sure to strike a nice balance and invite people of every geneder, nationality, race, and age. Don't discriminate on any level.
 
 ## 🚻️ Speakers room
@@ -82,6 +83,17 @@ So many conferences got this wrong, and it's so simple. It shouldn't be anything
 * Have a variety of food for breakfast and lunch. Assume there will be people will allergies and different food preferences (Vegetarians, Vegans, gluten free, Pescatarians, [Pesca-pescatarians](https://www.youtube.com/watch?v=IC-ZBJ-Kw2E), etc.). Clearly label any food intended for these groups and keep it separate if possible so that it doesn't get taken by those it isn't intended for.
 * If people are paying more than 300 euros for the conference and your breakfast is just **one** croissant ... don't even get me started. Fix that.
 * If the weather is hot, have an ice-cream fridge. This was an amazing idea by the JSHeroes conference, and everyone enjoyed it 🍦️
+
+## Scheduling
+
+* Plan 5 minutes for each speaker switchover within a block of talks. Most of the time it won't take this long, but the buffer is useful for overruns and tech issues. If you don't use it -- hey, longer breaks.
+* Plan extra 10 minutes for the first block of talks on the first day. If there are still registration queues by the scheduled start time, delay the start (or run a longer intro). It sucks to be the first speaker when people are still wading after you've started.
+* 30 minutes is an absolute maximum talk length, unless there is a **very** good reason.
+* Consider having varying talk lengths. Having only 30 minute talks can feel monotonous - throw in some 15's or 20's to keep the rhythm dynamic.
+* Schedule a big-name speaker to the final block of the day so people are more likely to stay for the whole day - if you're a new or less-known name, it sucks to speak at the end of the day to a half-empty audience.
+* Have the day's schedule printed on the badge or on a flyer in the swag bag. Keep an up-to-date version on the conference website.
+* If you have multiple tracks, make sure there's a tabular schedule that makes it easy for the audience to pick the talks they want to attend in each block.
+* If you have multiple tracks with multiple talks per block, have same-length talks against each other so that people can move between tracks within a block -- or explicitly ask attendees to not do this, if the venue does not suit this without disturbing the presentation.
 
 ## 🙄️ Intro
 
