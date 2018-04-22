@@ -29,6 +29,7 @@ Do not, I repeat, **DO NOT** make a native app. Most of the people won't even bo
 * When the conference venue is in the hotel where the speakers are staying it's just _amazing_. Having access to your room in order to practice your talk, or go for a nap, or cry a bit because you agreed on doing a talk but you're having second thoughts ... it's just the best.
 * Ask speakers if they want to stay on a boat? It sounds interesting but some people may not enjoy it.
 * Attempt not to split speakers in different hotels
+* Access to fitness equipment of some sort is always a nice bonus. Sometimes a conference will require a speaker to travel for almost a whole week. That's a long time to put off exercise.
 
 # Transport
 
