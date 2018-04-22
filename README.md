@@ -72,11 +72,13 @@ So many conferences got this wrong, and it's so simple. It shouldn't be anything
 * Have 👏️ good 👏️ WiFi ️️👏️ coverage.
 * Have 👏️ extra ️️👏️ extension 👏️ cords.
 * Have 👏️ some ️️👏️ food 👏️ and 👏️ water.
+* Have 👏 comfortable 👏 seating.
+* Have 👏 somewhere 👏 quiet.
 
 ## 🍗 Food
 
 * The amount of food that you're planning? Just make it double. Don't underestimate the hunger of people. It can bring their mood down and they can judge the entire conference based on that.
-* Have a variety of food for breakfast and lunch. Assume there will be people will allergies and different food preferences (Vegetarians, Vegans, Pescatarians, [Pesca-pescatarians](https://www.youtube.com/watch?v=IC-ZBJ-Kw2E), etc.)
+* Have a variety of food for breakfast and lunch. Assume there will be people will allergies and different food preferences (Vegetarians, Vegans, gluten free, Pescatarians, [Pesca-pescatarians](https://www.youtube.com/watch?v=IC-ZBJ-Kw2E), etc.). Clearly label any food intended for these groups and keep it separate if possible so that it doesn't get taken by those it isn't intended for.
 * If people are paying more than 300 euros for the conference and your breakfast is just **one** croissant ... don't even get me started. Fix that.
 * If the weather is hot, have an ice-cream fridge. This was an amazing idea by the JSHeroes conference, and everyone enjoyed it 🍦️
 
@@ -86,13 +88,13 @@ I cannot stress this enough. Don't have a long conference intro. Yes, I know you
 
 ## 🎤️ MC
 
-An MC can either make or break a conference. Make sure that you get the right person. Don't fall into the trap of just hiring a random person that's popular in the community, because he / she might be terrible with audiences.
+An MC can either make or break a conference. Make sure that you get the right person. Don't fall into the trap of just hiring a random person that's popular in the community, because they might be terrible with audiences.
 
 ## 🏷 Badges
 
 * One-sided badges are terrible. They will twist and turn all the time and you gotta make sure that people can read your name. Print the same info on both sides.
 * Find a way to include the conference agenda on the badge. It's just amazing. [Here is an example](https://i.pinimg.com/originals/49/1b/b5/491bb51f8b23855daf0d3f27b2d3c751.jpg).
-* Include Twitter nickname on badges? When Derp Derpowski approaches you, you will have no idea who he is, but if you see @zderp you'll be like "YO WHAT'S GOOD I KNOW YOU FROM TWITTER". Please do it.
+* Include Twitter nickname on badges? When Derp Derpowski approaches you, you will have no idea who they are, but if you see @zderp you'll be like "YO WHAT'S GOOD I KNOW YOU FROM TWITTER". Please do it.
 
 ## 📽️ Equipment
 
