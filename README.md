@@ -8,7 +8,7 @@ If you're lazy to send a PR you can also [tweet me](https://twitter.com/thekitze
 
 # Communication
 
-## 📄Speaker selection
+## 📄 Speaker selection
 
 Most conferences tend to pick a few speakers to invite and then hold a CFP for the rest. Here are a few points to help guide your speaker selection process:
 
