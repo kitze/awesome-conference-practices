@@ -91,6 +91,17 @@ I cannot stress this enough. Don't have a long conference intro. Yes, I know you
 
 An MC can either make or break a conference. Make sure that you get the right person. Don't fall into the trap of just hiring a random person that's popular in the community, because they might be terrible with audiences.
 
+The MC's job is simple, but not easy:
+* Keep the event on schedule
+* Keep the audience engaged, entertained and energized
+* Keep up the momentum during speaker switch-over. There should never be dead air.
+* Hype up and introduce each speaker in a way that raises their profile and that they feel comfortable about. **Never** make jokes or about the speaker without their prior approval.
+
+In addition to introducing the speakers, the MC should support speakers during the event. If the MC is not available to do this, another person should ensure the following gets done:
+* Make the speakers comfortable and tell them they are going to be amazing. Even experienced speakers can get the nerves.
+* Make sure speaker does a tech check well in advance in time to fix any issues, ensure their laptop is charged and notifications turned off, etc.
+* Run speakers through the process (when to show up to get mic'd, how Q&A works if there is one, etc.)
+
 ## 🏷 Badges
 
 * One-sided badges are terrible. They will twist and turn all the time and you gotta make sure that people can read your name. Print the same info on both sides.
