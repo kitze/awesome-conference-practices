@@ -8,6 +8,17 @@ If you're lazy to send a PR you can also [tweet me](https://twitter.com/thekitze
 
 # Communication
 
+## 📄Speaker selection
+
+Most conferences tend to pick a few speakers to invite and then hold a CFP for the rest. Here are a few points to help guide your speaker selection process:
+
+* State how long the talks are. For some people this can be a big deciding factor due to the topic of their talk.
+* If you have a theme in mind for the event, say so!
+* Don't expect a preview or run through of the talk as part of the selection process. A lot of people will either still be working on the talk not have written it yet.
+* Say how many spots you're looking to fill. Break this down by how many you're inviting and how many you'll be selecting from the CFP.
+* Don't start announcing the lineup before you've emailed everyone who responded to the CFP. It really sucks to find out that you didn't get accepted by seeing the lineup being announced.
+* Clearly state when the CFP closes and when the applicants should hear back from you. If dates slip, let people know rather than keep them in the dark
+
 ## 📧️ The Bible Email™️
 
 For God's sake don't send out a huge email the size of the Bible with **all** the information about the conference because nobody will actually read that. Send information in smaller relevant chunks. Before I arrive you can tell me about the travel and accommodation arrangements. After I arrive you can inform me about the rest of the stuff that I need to know, etc.
