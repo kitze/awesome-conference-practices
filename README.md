@@ -84,7 +84,7 @@ So many conferences got this wrong, and it's so simple. It shouldn't be anything
 * If people are paying more than 300 euros for the conference and your breakfast is just **one** croissant ... don't even get me started. Fix that.
 * If the weather is hot, have an ice-cream fridge. This was an amazing idea by the JSHeroes conference, and everyone enjoyed it 🍦️
 
-## Scheduling
+## ⏰ Scheduling
 
 * Plan 5 minutes for each speaker switchover within a block of talks. Most of the time it won't take this long, but the buffer is useful for overruns and tech issues. If you don't use it -- hey, longer breaks.
 * Plan extra 10 minutes for the first block of talks on the first day. If there are still registration queues by the scheduled start time, delay the start (or run a longer intro). It sucks to be the first speaker when people are still wading after you've started.
@@ -93,7 +93,7 @@ So many conferences got this wrong, and it's so simple. It shouldn't be anything
 * Have many, long breaks. While the talks are interesting, the real magic at conferences happens in the conversations with people who are as passionate about the topic as you are. ReactRally is one of the conferences who does this really well with a 30 minute break after every 2 talks.
 * Schedule a big-name speaker to the final block of the day so people are more likely to stay for the whole day - if you're a new or less-known name, it sucks to speak at the end of the day to a half-empty audience.
 
-## Multiple tracks
+## 🛤 Multiple tracks
 * Uh, try not to have multiple tracks? This sucks both for the attendees and the speakers. 
 * If you have multiple tracks, make sure there's a tabular schedule that makes it easy for the audience to pick the talks they want to attend in each block.
 * If you have multiple tracks with multiple talks per block, have same-length talks against each other so that people can move between tracks within a block -- or explicitly ask attendees to not do this, if the venue does not suit this without disturbing the presentation.
