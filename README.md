@@ -90,6 +90,7 @@ So many conferences got this wrong, and it's so simple. It shouldn't be anything
 * Plan extra 10 minutes for the first block of talks on the first day. If there are still registration queues by the scheduled start time, delay the start (or run a longer intro). It sucks to be the first speaker when people are still wading after you've started.
 * 30 minutes is an absolute maximum talk length, unless there is a **very** good reason.
 * Consider having varying talk lengths. Having only 30 minute talks can feel monotonous - throw in some 15's or 20's to keep the rhythm dynamic.
+* Have many, long breaks. While the talks are interesting, the real magic at conferences happens in the conversations with people who are as passionate about the topic as you are. ReactRally is one of the conferences who does this really well with a 30 minute break after every 2 talks.
 * Schedule a big-name speaker to the final block of the day so people are more likely to stay for the whole day - if you're a new or less-known name, it sucks to speak at the end of the day to a half-empty audience.
 
 ## Multiple tracks
