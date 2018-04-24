@@ -76,7 +76,7 @@ If you decide to pay one speaker, pay all of them. This kind of information leak
 ## 👲🏽🎅🏾🧛‍🧝‍👨🏼🧕🧚‍ 💁🏻‍ Diversity
 
 You would think that by now conference organizers finally figured this out, but you would be surprised.
-Just don't do a conference with 80 male speakers, or 80 female speakers, or any 80 speakers of the same gender/nationality/race/age/etc. Make sure to strike a nice balance and invite people of every geneder, nationality, race, and age. Don't discriminate on any level.
+Just don't do a conference with 80 male speakers, or 80 female speakers, or any 80 speakers of the same gender/nationality/race/age/etc. Make sure to strike a nice balance and invite people of every gender, nationality, race, and age. Don't discriminate on any level.
 
 ## 🚻️ Speakers room
 
