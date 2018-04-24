@@ -10,7 +10,7 @@ If you're lazy to send a PR you can also [tweet me](https://twitter.com/thekitze
 
 ## 📄 Speaker selection
 
-Most conferences tend to pick a few speakers to invite and then hold a CFP for the rest. Here are a few points to help guide your speaker selection process:
+Most conferences tend to pick a few speakers to invite and then hold a Call for Papers (CFP) for the rest. Here are a few points to help guide your speaker selection process:
 
 * State how long the talks are. For some people this can be a big deciding factor due to the topic of their talk.
 * If you have a theme in mind for the event, say so!
@@ -33,7 +33,7 @@ LOL, it's never gonna happen. Most of the speakers finish their presentations on
 
 ## 🤦‍ Native app
 
-Do not, I repeat, **DO NOT** make a native app. Most of the people won't even bother to install it and those who do will just delete it after the conference is done, so it doesn't make any sense. Make a nice PWA instead, it's the perfect use case for it.
+Do not, I repeat, **DO NOT** make a native app. Most of the people won't even bother to install it and those who do will just delete it after the conference is done, so it doesn't make any sense. Make a nice Progressive Web App instead, it's the perfect use case for it.
 
 # 🏨️ Accommodation
 
