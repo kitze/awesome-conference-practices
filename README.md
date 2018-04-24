@@ -94,6 +94,7 @@ So many conferences got this wrong, and it's so simple. It shouldn't be anything
 * Have a variety of food for breakfast and lunch. Assume there will be people will allergies and different food preferences (Vegetarians, Vegans, gluten free, Pescatarians, [Pesca-pescatarians](https://www.youtube.com/watch?v=IC-ZBJ-Kw2E), etc.). Clearly label any food intended for these groups and keep it separate if possible so that it doesn't get taken by those it isn't intended for.
 * If people are paying more than 300 euros for the conference and your breakfast is just **one** croissant ... don't even get me started. Fix that.
 * If the weather is hot, have an ice-cream fridge. This was an amazing idea by the JSHeroes conference, and everyone enjoyed it 🍦️
+* React Rally gave everyone a prepaid debit card to spend at restaurants in the city and then the time for you to eat a good meal. It worked out as a great way to get to know the location and other people you went to lunch with.
 
 ## ⏰ Scheduling
 
