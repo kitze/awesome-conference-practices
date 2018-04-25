@@ -104,6 +104,12 @@ So many conferences got this wrong, and it's so simple. It shouldn't be anything
 * Consider having varying talk lengths. Having only 30 minute talks can feel monotonous - throw in some 15's or 20's to keep the rhythm dynamic.
 * Have many, long breaks. While the talks are interesting, the real magic at conferences happens in the conversations with people who are as passionate about the topic as you are. ReactRally is one of the conferences who does this really well with a 30 minute break after every 2 talks.
 * Schedule a big-name speaker to the final block of the day so people are more likely to stay for the whole day - if you're a new or less-known name, it sucks to speak at the end of the day to a half-empty audience.
+* Keep a timer somewhere in the front row where the speaker can clearly see it.
+* Make sure the speakers understand that it's crucial to fit within their allocated timeframe. Don't allow them to overrun by too much. 1-2 minutes is acceptable, but 5 might not be.
+* If your schedule is running behind, do not interrupt the speaker before the allocated time ends. Allow your schedule to be a bit flexible. If you're 10 minutes behind, take 5 minutes from the next break or from the lunch break, but let the speakers finish their talks. It's all about respecting the work they put to be on stage.
+* The order of the talks is important, pay attention to it when building the agenda. Never schedule a detailed talk on a technology (ex: GraphQL) before a talk introducing it or revisiting its basics. Each talk should lead to the other in a nice flow, so the audience gets the best out of it.
+* Make sure the talk after the lunch break is entertaining - both speaker and content - or you risk people falling asleep!
+* If you have a 2-day or a 3-day conference, you might consider that during the last half of the last day people will not be able to stay focused as in the first part. Try to schedule lighter topics at that time, avoid talks that do coding demos or require a lot of processing.
 
 ## 🛤 Multiple tracks
 * Uh, try not to have multiple tracks? This sucks both for the attendees and the speakers. 
