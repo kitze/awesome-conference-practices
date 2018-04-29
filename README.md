@@ -151,6 +151,7 @@ In addition to introducing the speakers, the MC should support speakers during t
 * Have every type of adapter. Yes, some people with have the new MacBook Pro with a single USB-C port, and you being judgy about it won't help them connect to the projector. Just have the adapter ready.
 * Use a cable, please. Connecting to the projector via AirPlay or Chromecast sounds good in theory, but there are always unexpected problems with it. The 3-5 second delay when changing slides can ruin a presentation.
 * Be prepared for a speaker wanting to play audio, so have a 3.5 mm (headphone) jack available that hooks up to the speakers and session recording.
+* Make sure your audience seating is comfortable. Your attendees are going to be sat down for most of the conference and uncomfortable seating will lead to them losing attention, fidgeting and possibly being in pain after the conference.
 
 ## 🐦️ Live Twitter feed
 
