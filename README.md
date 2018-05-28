@@ -173,6 +173,10 @@ I don't think that anyone would complain about this, no matter what's the gift (
 
 Also keep in mind that certain items are not allowed on a plane (wine bottles, certain kinds of meat, etc.) and many speakers will travel with hand luggage only.
 
+## 🌐 Update the conference website
+
+It looks odd if you still have a link to buy tickets on your website after the conference is over. Or advertise last minute tickets. Instead show video recordings , workshop outcomes and anounce next years conference.
+
 # Extra ideas
 
 ## 📧️ Feedback envelopes
