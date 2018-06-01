@@ -116,6 +116,7 @@ So many conferences got this wrong, and it's so simple. It shouldn't be anything
 * Uh, try not to have multiple tracks? This sucks both for the attendees and the speakers. 
 * If you have multiple tracks, make sure there's a tabular schedule that makes it easy for the audience to pick the talks they want to attend in each block.
 * If you have multiple tracks with multiple talks per block, have same-length talks against each other so that people can move between tracks within a block -- or explicitly ask attendees to not do this, if the venue does not suit this without disturbing the presentation.
+* Indicate on website and shedule if talks are recorded (or not), it helps people to choose.
 
 ## 🙄️ Intro
 
