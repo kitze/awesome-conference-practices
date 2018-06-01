@@ -142,6 +142,11 @@ In addition to introducing the speakers, the MC should support speakers during t
 * Find a way to include the conference agenda on the badge. It's just amazing. [Here is an example](https://i.pinimg.com/originals/49/1b/b5/491bb51f8b23855daf0d3f27b2d3c751.jpg).
 * Include Twitter nickname on badges? When Derp Derpowski approaches you, you will have no idea who they are, but if you see @zderp you'll be like "YO WHAT'S GOOD I KNOW YOU FROM TWITTER". Please do it.
 
+## 🔋 Volunteers:
+ * Provide a way to easily recognize the volunteer team (badge with a specific color, hat, t-shirt).
+ * If you choose the t-shirts option, take large size to wear it over pulls in winter. Colorfull t-shirts (like orange in FOSDEM) are usefull to distinct them in a crowd.
+ * For international events, you can indicate spoken languages on badges.
+
 ## 📽️ Equipment
 
 * Don't make me hold a microphone, please. I may have some live-coding examples and I want to have my hands on the keyboard.
