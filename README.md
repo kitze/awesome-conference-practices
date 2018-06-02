@@ -61,7 +61,11 @@ This is totally not necessary, but after a full day of travel, it's nice when so
 
 ## 💰️Travel and accommodation
 
-The talk is only 30 minutes, but in order to give that talk, we need to spend at least 3 days of traveling and weeks of preparation. The minimum you can do is pay for the travel and accommodation costs. It's silly to bullshit your way around it. Some speakers will fall into the trap and pay for themselves but it shouldn't be that way.
+The talk is only 30 minutes, but in order to give that talk, we spend weeks preparing and often spend days traveling. You're unlikely to get speakers from outside of your region unless you can pay for travel and accommodation costs. Some speakers will pay their own way or have an employer who can afford to, but many can't. They either won't submit, or will ask you about travel support.
+
+Mark your CFP clearly with whether you can provide support, how much, and how the speaker can request it. If you can commit to a certain amount for every speaker, that's better than "support available upon demand".
+
+Many conferences are non-profits on limited budgets, or even free conferences. If you can't afford to cover travel expenses, be clear about it upfront.
 
 ## 💸️ Workshops
 
