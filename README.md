@@ -124,6 +124,7 @@ So many conferences got this wrong, and it's so simple. It shouldn't be anything
 * Uh, try not to have multiple tracks? This sucks both for the attendees and the speakers. 
 * If you have multiple tracks, make sure there's a tabular schedule that makes it easy for the audience to pick the talks they want to attend in each block.
 * If you have multiple tracks with multiple talks per block, have same-length talks against each other so that people can move between tracks within a block -- or explicitly ask attendees to not do this, if the venue does not suit this without disturbing the presentation.
+* Indicate on website and shedule if talks are recorded (or not), it helps people to choose.
 
 ## 🙄️ Intro
 
@@ -149,6 +150,11 @@ In addition to introducing the speakers, the MC should support speakers during t
 * One-sided badges are terrible. They will twist and turn all the time and you gotta make sure that people can read your name. Print the same info on both sides.
 * Find a way to include the conference agenda on the badge. It's just amazing. [Here is an example](https://i.pinimg.com/originals/49/1b/b5/491bb51f8b23855daf0d3f27b2d3c751.jpg).
 * Include Twitter nickname on badges? When Derp Derpowski approaches you, you will have no idea who they are, but if you see @zderp you'll be like "YO WHAT'S GOOD I KNOW YOU FROM TWITTER". Please do it.
+
+## 🔋 Volunteers:
+ * Provide a way to easily recognize the volunteer team (badge with a specific color, hat, t-shirt).
+ * If you choose the t-shirts option, take large size to wear it over pulls in winter. Colorfull t-shirts (like orange in FOSDEM) are usefull to distinct them in a crowd.
+ * For international events, you can indicate spoken languages on badges.
 
 ## 📽️ Equipment
 
