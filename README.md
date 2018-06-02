@@ -57,6 +57,10 @@ Sadly, the option we always end up with is sending 20 emails back and forth unti
 
 This is totally not necessary, but after a full day of travel, it's nice when someone just picks you up from the airport and takes you directly to the hotel.
 
+## :blue_car: Uber
+
+If you want to give speakers a cool way to see your city and/or get to and from other modes of transit, consider setting up an [Uber for Business](https://www.uber.com/business) account that you add the speakers to. You can limit the # of trips per day and the cost per trip. Your speakers can use it to get to a local landmark, restaurant, or to their hotel.
+
 # Finances
 
 ## 💰️Travel and accommodation
