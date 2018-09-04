@@ -14,10 +14,12 @@ Most conferences tend to pick a few speakers to invite and then hold a Call for 
 
 * State how long the talks are. For some people this can be a big deciding factor due to the topic of their talk.
 * If you have a theme in mind for the event, say so!
-* Don't expect a preview or run through of the talk as part of the selection process. A lot of people will either still be working on the talk not have written it yet.
+* Publish talk title suggestions, if you can think of some. It might help some first-timers over the hurdle when they know what topics will be appreciated.
+* Don't expect a preview or run through of the talk as part of the selection process. A lot of people will either still be working on the talk, or not have written it yet.
 * Say how many spots you're looking to fill. Break this down by how many you're inviting and how many you'll be selecting from the CFP.
 * Don't start announcing the lineup before you've emailed everyone who responded to the CFP. It really sucks to find out that you didn't get accepted by seeing the lineup being announced.
-* Clearly state when the CFP closes and when the applicants should hear back from you. If dates slip, let people know rather than keep them in the dark
+* Clearly state when the CFP closes and when the applicants should hear back from you. If dates slip, let people know rather than keep them in the dark.
+* Doing blind selection of the talks? Good for you! Also: let people know and ask them not to include any hints to their identity in their abstracts. 
 
 ## 📧️ The Bible Email™️
 
@@ -111,7 +113,7 @@ So many conferences got this wrong, and it's so simple. It shouldn't be anything
 * Plan extra 10 minutes for the first block of talks on the first day. If there are still registration queues by the scheduled start time, delay the start (or run a longer intro). It sucks to be the first speaker when people are still wading after you've started.
 * 30 minutes is an absolute maximum talk length, unless there is a **very** good reason.
 * Consider having varying talk lengths. Having only 30 minute talks can feel monotonous - throw in some 15's or 20's to keep the rhythm dynamic.
-* Have many, long breaks. While the talks are interesting, the real magic at conferences happens in the conversations with people who are as passionate about the topic as you are. ReactRally is one of the conferences who does this really well with a 30 minute break after every 2 talks.
+* Have many, long breaks. While the talks are interesting, the real magic at conferences happens in the conversations with people who are as passionate about the topic as you are. React Rally is one of the conferences who does this really well with a 30 minute break after every 2 talks.
 * Schedule a big-name speaker to the final block of the day so people are more likely to stay for the whole day - if you're a new or less-known name, it sucks to speak at the end of the day to a half-empty audience.
 * Keep a timer somewhere in the front row where the speaker can clearly see it.
 * Make sure the speakers understand that it's crucial to fit within their allocated timeframe. Don't allow them to overrun by too much. 1-2 minutes is acceptable, but 5 might not be.
@@ -124,6 +126,7 @@ So many conferences got this wrong, and it's so simple. It shouldn't be anything
 * Uh, try not to have multiple tracks? This sucks both for the attendees and the speakers. 
 * If you have multiple tracks, make sure there's a tabular schedule that makes it easy for the audience to pick the talks they want to attend in each block.
 * If you have multiple tracks with multiple talks per block, have same-length talks against each other so that people can move between tracks within a block -- or explicitly ask attendees to not do this, if the venue does not suit this without disturbing the presentation.
+* Don't allow people to dodge the important talk on empathy or 'soft topics'. These are things that affect all of us, which hardly goes to say for the internals of TypeScript.
 
 ## 🙄️ Intro
 
@@ -161,6 +164,8 @@ In addition to introducing the speakers, the MC should support speakers during t
 * Use a cable, please. Connecting to the projector via AirPlay or Chromecast sounds good in theory, but there are always unexpected problems with it. The 3-5 second delay when changing slides can ruin a presentation.
 * Be prepared for a speaker wanting to play audio, so have a 3.5 mm (headphone) jack available that hooks up to the speakers and session recording.
 * Make sure your audience seating is comfortable. Your attendees are going to be sat down for most of the conference and uncomfortable seating will lead to them losing attention, fidgeting and possibly being in pain after the conference.
+* Have a clicker available so people can move from behind the speaker table. 
+* Have the most common charger cables available. 
 
 ## 🐦️ Live Twitter feed
 
@@ -183,7 +188,7 @@ Also keep in mind that certain items are not allowed on a plane (wine bottles, c
 
 ## 🌐 Update the conference website
 
-It looks odd if you still have a link to buy tickets on your website after the conference is over. Or advertise last minute tickets. Instead show video recordings , workshop outcomes and anounce next years conference.
+It looks odd if you still have a link to buy tickets on your website after the conference is over. Or advertise last minute tickets. Instead show video recordings, workshop outcomes and anounce next years conference.
 
 # Extra ideas
 
