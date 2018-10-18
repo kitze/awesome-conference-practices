@@ -65,7 +65,7 @@ If you want to give speakers a cool way to see your city and/or get to and from 
 
 # Finances
 
-## 💰️Travel and accommodation
+## 💰️ Travel and accommodation
 
 The talk is only 30 minutes, but in order to give that talk, we spend weeks preparing and often spend days traveling. You're unlikely to get speakers from outside of your region unless you can pay for travel and accommodation costs. Some speakers will pay their own way or have an employer who can afford to, but many can't. They either won't submit, or will ask you about travel support.
 
@@ -188,7 +188,7 @@ Also keep in mind that certain items are not allowed on a plane (wine bottles, c
 
 ## 🌐 Update the conference website
 
-It looks odd if you still have a link to buy tickets on your website after the conference is over. Or advertise last minute tickets. Instead show video recordings, workshop outcomes and anounce next years conference.
+It looks odd if you still have a link to buy tickets on your website after the conference is over. Or advertise last minute tickets. Instead show video recordings, workshop outcomes and announce next years conference.
 ## 📈 Feedbacks
 
 At the end of the conference is very important to collect feedbacks from the attendees for the work you've done.
