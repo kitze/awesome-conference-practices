@@ -215,7 +215,7 @@ You could also prepare a special feedback for sponsors, where you can ask:
 
 * whether the service offered were appropriate to the audience
 * about satisfaction of the number of attendees
-* whether the company logo was shown in an appropriate wayv
+* whether the company logo was shown in an appropriate way
 * about the position and space of the reserved desk (if any)
 * whether the information on the sponsor brochure were complete
 
