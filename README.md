@@ -189,6 +189,35 @@ Also keep in mind that certain items are not allowed on a plane (wine bottles, c
 ## 🌐 Update the conference website
 
 It looks odd if you still have a link to buy tickets on your website after the conference is over. Or advertise last minute tickets. Instead show video recordings, workshop outcomes and anounce next years conference.
+## 📈 Feedbacks
+
+At the end of the conference is very important to collect feedbacks from the attendees for the work you've done.
+In practical terms you can ask for feedbacks about:
+
+* the topics the attendees found more interesting
+* the website (easy lookup of information, contacts, etc.)
+* the location (how easy was reaching it, cleanliness, etc.)
+* the quality and quantity of the food (during coffee breaks and/or lunches)
+* the quality of the Wi-Fi connection
+* social events (if any)
+* respect of the Code of Conduct (if you have one; in case not, you should 😉 )
+* gadgets
+
+Even for the speakers is very valuable to know how much his/her talk was appreciated or not. You can ask a (5-star) rating and a comment for each talk. It can be a Google Form or you can embed a rating mechanism into the app or the website.
+
+At the same time (if you haven't done it yet), you can collect (optional) info about the demographic of your attendees:
+* provenance
+* age
+* gender
+* job title (Junior Developer, CEO, student, startupper, etc.)
+
+You could also prepare a special feedback for sponsors, where you can ask:
+
+* whether the service offered were appropriate to the audience
+* about satisfaction of the number of attendees
+* whether the company logo was shown in an appropriate wayv
+* about the position and space of the reserved desk (if any)
+* whether the information on the sponsor brochure were complete
 
 # Extra ideas
 
