@@ -64,7 +64,7 @@ If you decide to pay one speaker, pay all of them. This kind of information leak
 
 ## 👲🏽🎅🏾🧛‍🧝‍👨🏼🧕🧚‍ 💁🏻‍ Diversity
 You would think that by now conference organizers finally figured this out, but you would be surprised. 
-Just don't do a conference with 80 male speakers, or 80 female speakers, or any 80 speakers of the same gender/nationality/race/age/etc. Make sure to strike a nice balance and invite people of every geneder, nationality, race, and age. Don't discriminate on any level.
+Just don't do a conference with 80 male speakers, or 80 female speakers, or any 80 speakers of the same gender/nationality/race/age/etc. Make sure to strike a nice balance and invite people of every gender, nationality, race, and age. Don't discriminate on any level.
 
 ## 🚻️ Speakers room
 
@@ -104,7 +104,7 @@ An MC can either make or break a conference. Make sure that you get the right pe
 * It's also nice when the headworn microphone is not a big, bulky, black ball that covers the entire side of my face.
 * Don't have a bunch of spotlights right in the speaker's face.
 * Make sure people can read code from the projectors. A low-budget projector simply won't cut it.
-* Have every type of adapter. Yes, some people with have the new MacBook Pro with a single USB-C port, and you being judgy about it won't help them connect to the projector. Just have the adapter ready.
+* Have every type of adapter. Yes, some people will have the new MacBook Pro with a single USB-C port, and you being judgy about it won't help them connect to the projector. Just have the adapter ready.
 * Use a cable, please. Connecting to the projector via AirPlay or Chromecast sounds good in theory, but there are always unexpected problems with it. The 3-5 second delay when changing slides can ruin a presentation.
 * Be prepared for a speaker wanting to play audio, so have a 3.5 mm (headphone) jack available that hooks up to the speakers and session recording.
 
@@ -130,4 +130,4 @@ Also keep in mind that certain items are not allowed on a plane (wine bottles, c
 
 ## 📧️ Feedback envelopes
 
-I loved this idea! JSHeroes had a booth where everyone can write a small note and put it in an envelope for the speaker to read it. At the end of the conference, we got our envelopes and it felt nice to read the notes and bring them home as a physical memory.
+I loved this idea! JSHeroes had a booth where everyone could write a small note and put it in an envelope for the speaker to read it. At the end of the conference, we got our envelopes and it felt nice to read the notes and bring them home as a physical memory.
