@@ -195,6 +195,7 @@ I don't think that anyone would complain about this, no matter what's the gift (
 * Keychains
 * Mugs & Coasters
 * A regional gift, specific to where you organize the event
+* Speaker book(or books)
 
 Also keep in mind that certain items are not allowed on a plane (wine bottles, certain kinds of meat, etc.) and many speakers will travel with hand luggage only.
 
