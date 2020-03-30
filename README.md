@@ -29,6 +29,7 @@ Most conferences tend to pick a few speakers to invite and then hold a Call for 
 * Say how many spots you're looking to fill. Break this down by how many you're inviting and how many you'll be selecting from the CFP.
 * Don't start announcing the lineup before you've emailed everyone who responded to the CFP. It really sucks to find out that you didn't get accepted by seeing the lineup being announced.
 * Clearly state when the CFP closes and when the applicants should hear back from you. If dates slip, let people know rather than keep them in the dark.
+* It's better to have an online application form for speakers with all information above plus structured questions about their topic, equipment requirements and target audience.
 * Doing blind selection of the talks? Good for you! Also: let people know and ask them not to include any hints to their identity in their abstracts. 
 
 ## 📧️ The Bible Email™️
@@ -41,7 +42,7 @@ Send calendar invites for every event at the conference. Attach locations and de
 
 ## 😂️ Sending the talk upfront
 
-LOL, it's never gonna happen. Most of the speakers finish their presentations on the flight to the conference, or _at_ the actual event, so just don't bother.
+LOL, it's never gonna happen. Most of the speakers finish their presentations on the flight to the conference, or _at_ the actual event, so just don't bother. Nevertheless it's better to provide them with clear milestones about drafts submission, arrival time and so on.
 
 ## 🤦‍ Native app
 
@@ -86,6 +87,8 @@ Many conferences are non-profits on limited budgets, or even free conferences. I
 ## 💸️ Workshops
 
 There are conferences who are not paying the trainers and that just blows my mind. Maybe it's because right now it's my primary [source](http://reactacademy.io/) of income and I wouldn't do it for free, but I'm pretty sure that there is something wrong here. If you're making extra money from a workshop you should pay the trainer at least 50% percent of the profit, **period**. Otherwise, you should list the speaker or their company as a sponsor.
+
+Also, you should notify participants about workshops schedule in advance to give them time to think and schedule their timeline.
 
 ## 😶 The talk
 
