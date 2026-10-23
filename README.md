@@ -197,7 +197,12 @@ Did you like anything in particular about a conference? Let's make an awesome li
     </td>
   </tr>
   <tr>
-    <td width="100%" colspan="3" valign="top">
+    <td width="33%" valign="top">
+      <a href="https://synteq.com/?ref=kitze%2Fawesome-conference-practices"><img src="https://synteq.com/assets/og_embed.png" width="40" alt="Synteq logo"></a><br>
+      <strong><a href="https://synteq.com/?ref=kitze%2Fawesome-conference-practices">Synteq</a></strong><br>
+      The cloud, built for developers.
+    </td>
+    <td width="67%" colspan="2" valign="top">
       <strong><a href="https://www.kitze.io/sponsors?ref=kitze%2Fawesome-conference-practices">Your product here</a></strong><br>
       Reach developers in every kitze repo.
     </td>
