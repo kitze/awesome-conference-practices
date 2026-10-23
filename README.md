@@ -198,7 +198,7 @@ Did you like anything in particular about a conference? Let's make an awesome li
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://synteq.com/?ref=kitze%2Fawesome-conference-practices"><img src="https://synteq.com/assets/og_embed.png" width="40" alt="Synteq logo"></a><br>
+      <a href="https://synteq.com/?ref=kitze%2Fawesome-conference-practices"><img src="https://media.gifs.so/sponsors/kitze-io/synteq.png" width="40" alt="Synteq logo"></a><br>
       <strong><a href="https://synteq.com/?ref=kitze%2Fawesome-conference-practices">Synteq</a></strong><br>
       The cloud, built for developers.
     </td>
